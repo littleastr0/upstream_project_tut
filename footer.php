@@ -31,6 +31,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<!--this is a test comment -->
 </body>
 </html>
