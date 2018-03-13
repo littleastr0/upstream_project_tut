@@ -32,5 +32,6 @@
 
 <?php wp_footer(); ?>
 <!--this is a test comment -->
+<!--- this is another test -->
 </body>
 </html>
