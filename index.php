@@ -53,7 +53,7 @@ get_header();
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-
+<p> this is hard coded text</p>
 <?php
 get_sidebar();
 get_footer();
